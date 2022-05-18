@@ -15,6 +15,7 @@ with simple code, we will create login page for fitness app tracker
     >
   </a>
 </p>
+
 ## App preview
 
 ![Animation of app mockup](data/app-showcase.gif)
